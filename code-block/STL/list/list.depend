@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625372429 source:/home/aniket/Documents/codeDay/c++/cpp practice/code-block/STL/list/main.cpp
+	<iostream>
+	<list>
+
