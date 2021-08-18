@@ -34,6 +34,5 @@ int main()
     v.push_back(3);
     cout<<"vector capaity->"<<v.capacity()<<endl;
 
-                        v.
     return 0;
 }

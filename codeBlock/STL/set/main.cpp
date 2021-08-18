@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     set<int> s;
-
+    //inserting elements with duplicates
     s.insert(5);
     s.insert(5);
     s.insert(5);
@@ -16,11 +16,13 @@ int main()
     s.insert(3);
     s.insert(1);
 
+    //set does not allow duplicates
     for(auto i:s) {
         cout<<i<<endl;
     }
+
     set<int>::iterator it = s.begin();
-     it++;
+    it++;
 
     s.erase(it);
     cout<<endl;
