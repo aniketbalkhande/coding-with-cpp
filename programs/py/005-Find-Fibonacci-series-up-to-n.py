@@ -19,7 +19,7 @@
 
 
 
-# #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 num = int(input("Enter The number "))
 n1 , n2 = 0, 1
 print("fibonacci series: ")
@@ -55,9 +55,6 @@ for i in range(1,num):
 
 # # Driver Program
 # print(Fibonacci(9))
-
-# # This code is contributed by Saket Modi
-# # then corrected and improved by Himanshu Kanojiya
 
 
 

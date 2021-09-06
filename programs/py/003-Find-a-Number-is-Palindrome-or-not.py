@@ -38,12 +38,12 @@
 
 #---------------------------------------------------------
 
-string = str(input("enter a string : "))
-# using python string techniques
-reverse = string[::-1]
+# string = str(input("enter a string : "))
+# # using python string techniques
+# reverse = string[::-1]
 
-if string==reverse:
-   print("{} is palindrome ".format(string))
-else:
-   print("{} is not palindrome".format(string))
+# if string==reverse:
+#    print("{} is palindrome ".format(string))
+# else:
+#    print("{} is not palindrome".format(string))
 
